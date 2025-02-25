@@ -1,9 +1,10 @@
+# PYTHON PROGRAMMING INTERNSHIP
 
+Name: Aarya Ramchandra Tarphe
 
+Batch: 5th February 2025
 
-
-
-
+Duration: 3months
 
 # Project 2 - Word Counter
 
