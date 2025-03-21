@@ -40,6 +40,12 @@ Overview
 
 - The Expense Tracker is a Python-based program that allows users to enter and manage their expenses, storing them in a CSV file for easy access and future reference.
 
+- The program provides a user-friendly interface where users can input details of their expenses, such as the amount, category, and description, and view their recorded expenses in a table format.
+
+- The program ensures valid input for the expense amount, providing error handling for invalid inputs and displaying appropriate messages to users.
+
+- Additionally, future enhancements can include generating detailed expense reports, setting a monthly budget tracker with alerts, and allowing users to import/export data from other formats.
+
 # Project 4 - Virtual coin toss
 
 Objective:
@@ -56,10 +62,3 @@ Overview
 - Users can choose to continue flipping or exit the program.
 
 - Additionally, an enhancement can include a graphical user interface (GUI) for a more interactive experience.
-
-  
-- The program provides a user-friendly interface where users can input details of their expenses, such as the amount, category, and description, and view their recorded expenses in a table format.
-
-- The program ensures valid input for the expense amount, providing error handling for invalid inputs and displaying appropriate messages to users.
-
-- Additionally, future enhancements can include generating detailed expense reports, setting a monthly budget tracker with alerts, and allowing users to import/export data from other formats.
