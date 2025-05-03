@@ -2,7 +2,9 @@
 # PYTHON PROGRAMMING INTERNSHIP
 
 **Name:** Aarya Ramchandra Tarphe
+
 **Batch:** 5th February 2025
+
 **Duration:** 3 months
 
 # Project 6 - Rock, Paper, Scissors
