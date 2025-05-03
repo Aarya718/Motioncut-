@@ -78,15 +78,16 @@ Overview:
   
 # Project 6 - Rock, Paper, Scissors
 
-### Objective:
-
+Objective: 
 The goal of this project is to create a Python-based Rock, Paper, Scissors game where the user plays against the computer. This project enhances the understanding of conditional logic, user input, and randomization in Python.
 
-### Overview:
+Overview:
 
-* The Rock, Paper, Scissors game is a terminal-based Python application that allows the user to play multiple rounds against the computer.
-* The program prompts the user to input "rock", "paper", or "scissors", then randomly selects a choice for the computer.
-* The winner of each round is determined based on the standard game rules:
+- The Rock, Paper, Scissors game is a terminal-based Python application that allows the user to play multiple rounds against the computer.
+  
+- The program prompts the user to input "rock", "paper", or "scissors", then randomly selects a choice for the computer.
+  
+- The winner of each round is determined based on the standard game rules:
 
   * Rock beats Scissors
   * Scissors beats Paper
